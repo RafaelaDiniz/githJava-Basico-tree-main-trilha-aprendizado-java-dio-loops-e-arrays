@@ -1,3 +1,4 @@
+package loops;
 import java.util.Scanner;
 
 /* Faça um programa que leia conjuntos de dois valores,
